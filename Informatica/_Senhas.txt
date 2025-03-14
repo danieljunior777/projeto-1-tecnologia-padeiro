@@ -1,0 +1,12 @@
+SENHAS UTILIZADAS PELOS PROGRAMAS:
+
+
+=========================
+          MySQL
+=========================
+
+Usuário: root
+Senha: fatec
+
+
+
