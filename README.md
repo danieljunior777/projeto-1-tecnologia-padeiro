@@ -1,8 +1,8 @@
 # atividade de informatica 
 **lista o que eu gosto**
-futebol
-volei
-pokemon
+-futebol
+-volei
+-pokemon
 
 **tabela**
 | Nome      | Idade| profição      |
