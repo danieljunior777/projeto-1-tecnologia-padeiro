@@ -5,7 +5,9 @@
 -pokemon
 
 **tabela**
+_____________________________________
 | Nome      | Idade| profição      |
+-------------------------------------
 | Julio     | 20   | cliente       |
 | loren     | 17   | cliente       |
 | edcarlos  | 19   |  disaner      |
